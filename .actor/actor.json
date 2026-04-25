@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "> Save Cams.com live streams and recorded videos as MP4 files without manual stream extraction.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "camscom-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Cams.com Downloader",
+  "version": "0.0"
+}
