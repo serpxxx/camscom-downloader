@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "camscom-downloader",
   "readme": "../ACTOR.md",
-  "title": "Cams.com Downloader Browser Extension",
+  "title": "Cams.com Downloader",
   "version": "0.0"
 }
