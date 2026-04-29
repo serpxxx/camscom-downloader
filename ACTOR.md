@@ -1,4 +1,4 @@
-# Cams.com Downloader Browser Extension
+# Cams.com Downloader
 
 > Save Cams.com live streams and recorded videos as MP4 files without manual stream extraction.
 
