@@ -9,6 +9,11 @@ Cams.com Downloader is a browser extension built for viewers who want a direct w
 - Choose from the stream qualities exposed on the page
 - Save playback-ready MP4 files for offline viewing
 - Use browser-based controls instead of digging through source files
+
+## Get it Here
+
+Get it here: https://serp.ly/camscom-video-downloader
+
 ## Table of Contents
 
 - [Why Cams.com Downloader](#why-camscom-downloader)
